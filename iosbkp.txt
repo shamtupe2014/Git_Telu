@@ -1,0 +1,6 @@
+how to take backup cosco router.
+
+1-go to tftp i.e copy disk0 tftp:
+2-give startup config path and name
+3-give tftp server ip and destonation file name
+4-and Enter.
